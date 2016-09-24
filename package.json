@@ -13,7 +13,9 @@
     "url": "https://github.com/wenwuwu/portfolio/issues"
   },
   "homepage": "https://github.com/wenwuwu/portfolio#readme",
-  "devDependencies": {},
+  "devDependencies": {
+    "path": "^0.12.7"
+  },
   "jspm": {
     "registry": "jspm",
     "format": "es6",
@@ -22,7 +24,6 @@
       "fetch": "npm:fetch@^1.1.0",
       "fetchival": "npm:fetchival@^0.3.2",
       "jsx": "github:floatdrop/plugin-jsx@^1.2.1",
-      "path": "npm:path@^0.12.7",
       "react": "npm:react@^15.2.0",
       "react-dom": "npm:react-dom@^15.2.0",
       "react-router": "npm:react-router@^2.8.1"

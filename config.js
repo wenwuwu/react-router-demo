@@ -20,7 +20,6 @@ System.config({
     "fetch": "npm:fetch@1.1.0",
     "fetchival": "npm:fetchival@0.3.2",
     "jsx": "github:floatdrop/plugin-jsx@1.2.1",
-    "path": "npm:path@0.12.7",
     "react": "npm:react@15.3.2",
     "react-dom": "npm:react-dom@15.3.2",
     "react-router": "npm:react-router@2.8.1",
@@ -485,10 +484,6 @@ System.config({
     },
     "npm:path-is-absolute@1.0.0": {
       "process": "github:jspm/nodelibs-process@0.1.2"
-    },
-    "npm:path@0.12.7": {
-      "process": "npm:process@0.11.9",
-      "util": "npm:util@0.10.3"
     },
     "npm:pbkdf2@3.0.8": {
       "buffer": "github:jspm/nodelibs-buffer@0.1.0",
